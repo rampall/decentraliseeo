@@ -47,4 +47,4 @@ npm i -g @ethersphere/swarm-cli
 swarm-cli upload ./build
 ```
 
-or upload using [Swarm Desktop](https://www.ethswarm.org/build/desktop)https://www.ethswarm.org/build/desktop
+or upload using [Swarm Desktop](https://www.ethswarm.org/build/desktop)
